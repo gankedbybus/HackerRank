@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HackerRank": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BASE_PATH": "C:\\Users\\Admin\\source\\repos\\HackerRank\\TestCases\\",
+        "PROBLEM": "bubble-sort"
+      }
+    }
+  }
+}
